@@ -67,6 +67,10 @@ button{
     display: flex;
     font-weight: 10;
     font-size:15px;
+    width:300px;
+    gap: 30px;
+    margin-left: 325px;
+    margin-top: 20px;
 }
 
 .footer{
@@ -115,4 +119,17 @@ button{
 
 .together{
     display:flex;
+}
+
+.square{
+    width:100px;
+    height:100px;
+    border:#3882F6 solid 2px;
+    border-radius: 8px;
+}
+
+.sq{
+    display: flex;
+    flex-direction: column;
+
 }
