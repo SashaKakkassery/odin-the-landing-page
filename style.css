@@ -1,0 +1,118 @@
+body{
+    display:flex;
+    flex-direction: column;
+    font-family: Roboto, sans-serif;
+    margin:0;
+}
+
+
+.one, .footer{
+    background-color: #1F2937;
+}
+
+
+h1{
+    font-size: 28px;
+    color:white;
+    font-weight:800;
+    padding: 0 20px;
+    width:200px;
+}
+
+h2{
+    font-size: 20px;
+    color: #F9FAF8;
+    padding: 0 20px;
+    margin-left:50px;
+}
+
+.body, .link{
+    font-size: 12px;
+    color:#E5E7EB;
+}
+
+button{
+    background-color: #3882F6;
+    color:white;
+}
+
+.two{
+    font-size: 20px;
+    color:#1F2937;
+    font-weight: 900;
+    text-align: center;
+    padding:40px;
+}
+
+.four{
+    border: #3882F6 solid 2px;
+}
+
+.three{
+    background-color: #E5E7EB;
+    font-size: 20px;
+    font-style: italic;
+    color:#1F2937;
+    text-align: left;
+    padding:40px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    margin-left:50px;
+}
+
+.all{
+    display: flex;
+    font-weight: 10;
+    font-size:15px;
+}
+
+.footer{
+    color:white;
+    text-align: center;
+    padding:20px;
+    font-size: 10px;
+}
+
+.section{
+    display:flex;
+}
+
+.group{
+    display:flex;
+    gap:10px;
+    margin-left: auto;
+    padding-right: 80px;
+    padding-top: 20px;
+}
+
+.body{
+    padding: 0 20px;
+    text-align: left;
+    width:280px;
+}
+
+.button_one{
+    margin: 20px 20px;
+    margin-left:80px;
+    border-radius: 8px;
+}
+
+.rectangle{
+    width:300px;
+    height:150px;
+    background:gray;
+    border:gray solid 2px;
+    margin-left: 100px;
+    margin-top: 20px;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    color:white;
+}
+
+.together{
+    display:flex;
+}
